@@ -1,0 +1,71 @@
+Equilibrium chemistry is concerned with systems in chemical equilibrium. The unifying principle is that the free energy of a system at equilibrium is the minimum possible, so that the slope of the free energy with respect to the reaction coordinate is zero. This principle, applied to mixtures at equilibrium provides a definition of an equilibrium constant. Applications include acid–base, host–guest, metal–complex, solubility, partition, chromatography and redox equilibria.
+
+A steady state, on the other hand, is not necessarily an equilibrium state in the chemical sense. For example, in a radioactive decay chain the concentrations of intermediate isotopes are constant because the rate of production is equal to the rate of decay. It is not a chemical equilibrium because the decay process occurs in one direction only.
+
+Thermodynamic equilibrium is characterized by the free energy for the whole (closed) system being a minimum. For systems at constant volume the Helmholtz free energy is minimum and for systems at constant pressure the Gibbs free energy is minimum. Thus a metastable state is one for which the free energy change between reactants and products is not minimal even though the composition does not change in time.
+
+The existence of this minimum is due to the free energy of mixing of reactants and products being always negative. For ideal solutions the enthalpy of mixing is zero, so the minimum exists because the entropy of mixing is always positive. The slope of the reaction free energy, δGr with respect to the reaction coordinate, ξ, is zero when the free energy is at its minimum value.
+
+nj are the stoichiometric coefficients of the reactants in the equilibrium equation, and mj are the coefficients of the products. The value of δGr for these reactions is a function of the chemical potentials of all the species.
+
+The chemical potential, μi, of the ith species can be calculated in terms of its activity, ai.
+
+This relates the standard Gibbs free energy change, ΔGo to an equilibrium constant, K, the reaction quotient of activity values at equilibrium.
+
+It follows that any equilibrium of this kind can be characterized either by the standard free energy change or by the equilibrium constant. In practice concentrations are more useful than activities. Activities can be calculated from concentrations if the activity coefficient are known, but this is rarely the case. Sometimes activity coefficients can be calculated using, for example, Pitzer equations or Specific ion interaction theory. Otherwise conditions must be adjusted so that activity coefficients do not vary much. For ionic solutions this is achieved by using a background ionic medium at a high concentration relative to the concentrations of the species in equilibrium.
+
+This expression for activity is placed in the expression defining the equilibrium constant.
+
+By setting the quotient of activity coefficients, Γ, equal to one, the equilibrium constant is defined as a quotient of concentrations.
+
+This definition is much more practical, but an equilibrium constant defined in terms of concentrations is dependent on conditions. In particular, equilibrium constants for species in aqueous solution are dependent on ionic strength, as the quotient of activity coefficients varies with the ionic strength of the solution.
+
+The values of the standard free energy change and of the equilibrium constant are temperature dependent. To a first approximation, the van 't Hoff equation may be used.
+
+Fugacity coefficients are dimensionless and can be obtained experimentally at specific temperature and pressure, from measurements of deviations from ideal gas behaviour. Equilibrium constants are defined in terms of fugacity. If the gases are at sufficiently low pressure that they behave as ideal gases, the equilibrium constant can be defined as a quotient of partial pressures.
+
+An example of gas-phase equilibrium is provided by the Haber–Bosch process of ammonia synthesis.
+
+This reaction is strongly exothermic, so the equilibrium constant decreases with temperature. However, a temperature of around 400 °C is required in order to achieve a reasonable rate of reaction with currently available catalysts. Formation of ammonia is also favoured by high pressure, as the volume decreases when the reaction takes place. The same reaction, nitrogen fixation, occurs at ambient temperatures in nature, when the catalyst is an enzyme such as nitrogenase. Much energy is needed initially to break the nitrogen–nitrogen triple bond even though the overall reaction is exothermic.
+
+Gas-phase equilibria occur during combustion and were studied as early as 1943 in connection with the development of the V2 rocket engine.
+
+The calculation of composition for a gaseous equilibrium at constant pressure is often carried out using ΔG values, rather than equilibrium constants.
+
+Two or more equilibria can exist at the same time. When this is so, equilibrium constants can be ascribed to individual equilibria, but they are not always unique. For example, three equilibrium constants can be defined for a dibasic acid, H2A.
+
+The three constants are not independent of each other and it is easy to see that β2 = K1K2. The constants K1 and K2 are stepwise constants and β is an example of an overall constant.
+
+There are as many mass-balance equations as there are reagents, A, B..., so if the equilibrium constant values are known, there are n mass-balance equations in n unknowns, [A], [B]..., the so-called free reagent concentrations. Solution of these equations gives all the information needed to calculate the concentrations of all the species.
+
+Thus, the importance of equilibrium constants lies in the fact that, once their values have been determined by experiment, they can be used to calculate the concentrations, known as the speciation, of mixtures that contain the relevant species.
+
+There are five main types of experimental data that are used for the determination of solution equilibrium constants. Potentiometric data obtained with a glass electrode are the most widely used with aqueous solutions. The others are Spectrophotometric, Fluorescence (luminescence) measurements and NMR chemical shift measurements; simultaneous measurement of K and ΔH for 1:1 adducts in biological systems is routinely carried out using Isothermal Titration Calorimetry.
+
+The experimental data will comprise a set of data points. At the i'th data point, the analytical concentrations of the reactants, TA(i), TB(i) etc. will be experimentally known quantities and there will be one or more measured quantities, yi, that depend in some way on the analytical concentrations and equilibrium constants. A general computational procedure has three main components.
+
+Definition of a chemical model of the equilibria. The model consists of a list of reagents, A, B, etc. and the complexes formed from them, with stoichiometries ApBq... Known or estimated values of the equilibrium constants for the formation of all complexes must be supplied.
+
+Calculation of the concentrations of all the chemical species in each solution. The free concentrations are calculated by solving the equations of mass-balance, and the concentrations of the complexes are calculated using the equilibrium constant definitions. A quantity corresponding to the observed quantity can then be calculated using physical principles such as the Nernst potential or Beer-Lambert law which relate the calculated quantity to the concentrations of the species.
+
+Refinement of the equilibrium constants. Usually a Non-linear least squares procedure is used. A weighted sum of squares, U, is minimized.
+
+The weights, wi and quantities y may be vectors. Values of the equilibrium constants are refined in an iterative procedure.
+
+An acid is a proton donor; the proton is transferred to the base, a proton acceptor, creating a conjugate acid. For aqueous solutions of an acid HA, the base is water; the conjugate base is A− and the conjugate acid is the solvated hydrogen ion. In solution chemistry, it is usual to use H+ as an abbreviation for the solvated hydrogen ion, regardless of the solvent. In aqueous solution H+ denotes a solvated hydronium ion.
+
+Acid–base equilibria are important in a very wide range of applications, such as acid–base homeostasis, ocean acidification, pharmacology and analytical chemistry.
+
+The study of these complexes is important for supramolecular chemistry and molecular recognition. The objective of these studies is often to find systems with a high binding selectivity of a host (receptor) for a particular target molecule or ion, the guest or ligand. An application is the development of chemical sensors. Finding a drug which either blocks a receptor, an antagonist which forms a strong complex the receptor, or activate it, an agonist, is an important pathway to drug discovery.
+
+Stability constants defined in this way, are association constants. This can lead to some confusion as pKa values are dissociation constants. In general purpose computer programs it is customary to define all constants as association constants. The relationship between the two types of constant is given in association and dissociation constants.
+
+as this shows that when hydrogen ion concentration increases the equilibrium is shifted to the left in accordance with Le Châtelier's principle. Hydrogen ion concentration can be increased by the presence of carbon dioxide, which behaves as a weak acid.
+
+Chelation therapy is based on the principle of using chelating ligands with a high binding selectivity for a particular metal to remove that metal from the human body.
+
+Complexes with polyamino carboxylic acids find a wide range of applications. EDTA in particular is used extensively.
+
+This is an example of the Nernst equation. The potential is known as a reduction potential. Standard electrode potentials are available in a table of values. Using these values, the actual electrode potential for a redox couple can be calculated as a function of the ratio of concentrations.
+
+The equilibrium constant for a full redox reaction can be obtained from the standard redox potentials of the constituent half-reactions.
