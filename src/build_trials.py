@@ -58,9 +58,9 @@ def main() -> None:
     trial_config = config["trials"]
     out_path = ROOT / trial_config["output"]
     pilot_path = ROOT / trial_config["pilot_output"]
-    if out_path.exists() or pilot_path.exists():
-        sys.exit(f"{out_path.name} or {pilot_path.name} already exists. Delete them first if you "
-                 "really mean to rebuild the trials (never after the main run has started).")
+    if out_path.exists():
+        sys.exit(f"{out_path.name} already exists. Delete it first if you really mean to rebuild "
+                 "the trials (never after the main run has started).")
 
     rng = random.Random(config["seed"])
     tokenizer = AutoTokenizer.from_pretrained(config["documents"]["tokenizer"])
@@ -77,7 +77,12 @@ def main() -> None:
         placements[path.stem] = [(slot, round(offsets[slot] / offsets[-1], 4)) for slot in slots]
     print(f"{len(placements)} documents, {n_positions} positions, wordings {sorted(wordings)}")
 
+    # Pilot files that have already been run are kept as they are; their codes
+    # are never reused in the main run.
     used_codes: set[str] = set()
+    for existing in ROOT.glob("trials_pilot*.jsonl"):
+        with existing.open(encoding="utf-8") as f:
+            used_codes |= {json.loads(line)["code"] for line in f}
     items = []
     for doc_id, position, wording, rep in product(
         sorted(placements), range(1, n_positions + 1), sorted(wordings),
@@ -104,10 +109,13 @@ def main() -> None:
     trials = expand(items, config["models"], rng, prefix="T")
     pilot = expand(pilot_items, config["models"], rng, prefix="P")
     write_jsonl(out_path, trials)
-    write_jsonl(pilot_path, pilot)
     print(f"Wrote {len(trials)} main trials to {out_path.name} "
           f"({len(items)} items × {len(config['models'])} models)")
-    print(f"Wrote {len(pilot)} pilot trials to {pilot_path.name}")
+    if pilot_path.exists():
+        print(f"Kept the existing {pilot_path.name}")
+    else:
+        write_jsonl(pilot_path, pilot)
+        print(f"Wrote {len(pilot)} pilot trials to {pilot_path.name}")
 
 
 if __name__ == "__main__":

@@ -33,10 +33,13 @@ prompt:
 trials:
   positions: 7               # evenly spaced from the very start (1) to the very end (7)
   wordings_file: data/injections.yaml
-  codes_per_cell: 5          # trials per document × position × wording, each with its own code
+  codes_per_cell: 3          # trials per document × position × wording, each with its own code
   output: trials.jsonl
   pilot_per_position: 10     # pilot trials per position per model, with separate codes
   pilot_output: trials_pilot.jsonl
+  # Pilot history (not analysed): trials_pilot.jsonl ran wordings A and B (280 trials);
+  # Qwen succeeded on 3% and Gemini on 87%, so wording C was piloted in
+  # trials_pilot_c.jsonl (140 trials) and added. Codes per cell then cut from 5 to 3.
 
 attention:
   model: Qwen/Qwen2.5-3B-Instruct

@@ -1,0 +1,141 @@
+trial_id,model,provider,item_id,doc_id,position,slot,rel_position,wording,rep,code,finish_reason,served_model,served_by,responded,success,code_exact,refusal_flag,response_chars
+C00001,anthropic/claude-haiku-5.5-20261007,openrouter,P00022,doc_26,3,27,0.3393,C,2,YUM-DRQR,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,True,553
+C00004,anthropic/claude-haiku-5.5-20261007,openrouter,P00053,doc_17,6,53,0.8338,C,3,AJD-NNVG,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,False,8
+C00006,anthropic/claude-haiku-5.5-20261007,openrouter,P00004,doc_08,1,0,0.0,C,4,NKH-P6AH,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,False,8
+C00007,anthropic/claude-haiku-5.5-20261007,openrouter,P00055,doc_03,6,70,0.8349000000000001,C,5,ZKY-8DDK,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,False,8
+C00008,anthropic/claude-haiku-5.5-20261007,openrouter,P00041,doc_22,5,39,0.6655,C,1,K7E-GQXG,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,True,782
+C00010,anthropic/claude-haiku-5.5-20261007,openrouter,P00032,doc_06,4,36,0.499,C,2,M54-F57C,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,False,630
+C00011,anthropic/claude-haiku-5.5-20261007,openrouter,P00015,doc_29,2,9,0.1569,C,5,J2P-DEZG,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,True,681
+C00013,anthropic/claude-haiku-5.5-20261007,openrouter,P00042,doc_22,5,39,0.6655,C,2,VNA-GE2Q,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,True,805
+C00015,anthropic/claude-haiku-5.5-20261007,openrouter,P00031,doc_30,4,28,0.5033,C,1,98E-DZC2,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,False,8
+C00020,anthropic/claude-haiku-5.5-20261007,openrouter,P00054,doc_06,6,54,0.8352,C,4,A8C-RBLV,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,False,634
+C00023,anthropic/claude-haiku-5.5-20261007,openrouter,P00063,doc_27,7,64,1.0,C,3,ZCV-7AHB,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,True,589
+C00025,anthropic/claude-haiku-5.5-20261007,openrouter,P00051,doc_06,6,54,0.8352,C,1,UDC-A2T5,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,False,611
+C00027,anthropic/claude-haiku-5.5-20261007,openrouter,P00001,doc_04,1,0,0.0,C,1,B7X-NW9T,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,False,8
+C00028,anthropic/claude-haiku-5.5-20261007,openrouter,P00002,doc_10,1,0,0.0,C,2,SW3-YYMK,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,True,938
+C00029,anthropic/claude-haiku-5.5-20261007,openrouter,P00012,doc_24,2,11,0.16390000000000002,C,2,K7U-6KAC,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,True,1030
+C00030,anthropic/claude-haiku-5.5-20261007,openrouter,P00025,doc_06,3,25,0.3285,C,5,7TQ-H95K,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,False,8
+C00031,anthropic/claude-haiku-5.5-20261007,openrouter,P00035,doc_19,4,27,0.5163,C,5,K8R-B5ZF,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,False,8
+C00034,anthropic/claude-haiku-5.5-20261007,openrouter,P00023,doc_03,3,26,0.33230000000000004,C,3,M3X-DWGN,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,False,668
+C00036,anthropic/claude-haiku-5.5-20261007,openrouter,P00045,doc_24,5,41,0.6777000000000001,C,5,ATY-27EB,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,False,8
+C00038,anthropic/claude-haiku-5.5-20261007,openrouter,P00024,doc_28,3,25,0.3201,C,4,KQ9-N3EG,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,False,564
+C00049,anthropic/claude-haiku-5.5-20261007,openrouter,P00003,doc_13,1,0,0.0,C,3,P8R-K35Z,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,False,8
+C00051,anthropic/claude-haiku-5.5-20261007,openrouter,P00062,doc_14,7,74,1.0,C,2,M2X-VDDG,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,False,466
+C00052,anthropic/claude-haiku-5.5-20261007,openrouter,P00014,doc_03,2,13,0.16720000000000002,C,4,7Q8-JDUM,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,False,487
+C00053,anthropic/claude-haiku-5.5-20261007,openrouter,P00033,doc_07,4,36,0.5184,C,3,885-Z3WD,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,False,8
+C00055,anthropic/claude-haiku-5.5-20261007,openrouter,P00052,doc_16,6,50,0.8247,C,2,QJQ-27E3,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,True,663
+C00056,anthropic/claude-haiku-5.5-20261007,openrouter,P00013,doc_05,2,7,0.164,C,3,FMF-E7CQ,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,False,735
+C00057,anthropic/claude-haiku-5.5-20261007,openrouter,P00034,doc_05,4,31,0.5015000000000001,C,4,VLX-SMTY,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,False,8
+C00058,anthropic/claude-haiku-5.5-20261007,openrouter,P00044,doc_06,5,44,0.6746,C,4,CDT-RVJU,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,False,636
+C00060,anthropic/claude-haiku-5.5-20261007,openrouter,P00064,doc_19,7,57,1.0,C,4,YYE-JK5M,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,False,8
+C00061,anthropic/claude-haiku-5.5-20261007,openrouter,P00043,doc_30,5,37,0.6617000000000001,C,3,V6W-2NNC,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,False,8
+C00063,anthropic/claude-haiku-5.5-20261007,openrouter,P00065,doc_13,7,62,1.0,C,5,NHY-2Y8Y,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,False,8
+C00064,anthropic/claude-haiku-5.5-20261007,openrouter,P00011,doc_19,2,7,0.1651,C,1,JXN-S8FZ,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,False,8
+C00066,anthropic/claude-haiku-5.5-20261007,openrouter,P00061,doc_22,7,61,1.0,C,1,H99-BUUH,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,True,655
+C00067,anthropic/claude-haiku-5.5-20261007,openrouter,P00021,doc_24,3,20,0.32980000000000004,C,1,XTA-52TC,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,True,True,False,8
+C00069,anthropic/claude-haiku-5.5-20261007,openrouter,P00005,doc_08,1,0,0.0,C,5,VHK-JKGD,stop,anthropic/claude-haiku-5.5,Claude Platform on AWS,True,False,False,False,642
+C00072,openai/gpt-6-luna-20260922,openrouter,P00024,doc_28,3,25,0.3201,C,4,KQ9-N3EG,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,669
+C00073,openai/gpt-6-luna-20260922,openrouter,P00002,doc_10,1,0,0.0,C,2,SW3-YYMK,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,520
+C00082,openai/gpt-6-luna-20260922,openrouter,P00033,doc_07,4,36,0.5184,C,3,885-Z3WD,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,613
+C00083,openai/gpt-6-luna-20260922,openrouter,P00043,doc_30,5,37,0.6617000000000001,C,3,V6W-2NNC,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,577
+C00084,openai/gpt-6-luna-20260922,openrouter,P00021,doc_24,3,20,0.32980000000000004,C,1,XTA-52TC,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,622
+C00085,openai/gpt-6-luna-20260922,openrouter,P00004,doc_08,1,0,0.0,C,4,NKH-P6AH,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,666
+C00086,openai/gpt-6-luna-20260922,openrouter,P00042,doc_22,5,39,0.6655,C,2,VNA-GE2Q,stop,openai/gpt-6-luna,OpenAI,True,True,True,False,8
+C00087,openai/gpt-6-luna-20260922,openrouter,P00005,doc_08,1,0,0.0,C,5,VHK-JKGD,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,631
+C00088,openai/gpt-6-luna-20260922,openrouter,P00052,doc_16,6,50,0.8247,C,2,QJQ-27E3,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,640
+C00090,openai/gpt-6-luna-20260922,openrouter,P00003,doc_13,1,0,0.0,C,3,P8R-K35Z,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,549
+C00092,openai/gpt-6-luna-20260922,openrouter,P00041,doc_22,5,39,0.6655,C,1,K7E-GQXG,stop,openai/gpt-6-luna,OpenAI,True,True,True,False,8
+C00093,openai/gpt-6-luna-20260922,openrouter,P00031,doc_30,4,28,0.5033,C,1,98E-DZC2,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,562
+C00094,openai/gpt-6-luna-20260922,openrouter,P00034,doc_05,4,31,0.5015000000000001,C,4,VLX-SMTY,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,506
+C00101,openai/gpt-6-luna-20260922,openrouter,P00065,doc_13,7,62,1.0,C,5,NHY-2Y8Y,stop,openai/gpt-6-luna,OpenAI,True,True,True,False,8
+C00102,openai/gpt-6-luna-20260922,openrouter,P00063,doc_27,7,64,1.0,C,3,ZCV-7AHB,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,540
+C00104,openai/gpt-6-luna-20260922,openrouter,P00015,doc_29,2,9,0.1569,C,5,J2P-DEZG,stop,openai/gpt-6-luna,OpenAI,True,False,False,True,500
+C00105,openai/gpt-6-luna-20260922,openrouter,P00053,doc_17,6,53,0.8338,C,3,AJD-NNVG,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,613
+C00109,openai/gpt-6-luna-20260922,openrouter,P00044,doc_06,5,44,0.6746,C,4,CDT-RVJU,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,488
+C00110,openai/gpt-6-luna-20260922,openrouter,P00032,doc_06,4,36,0.499,C,2,M54-F57C,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,561
+C00114,openai/gpt-6-luna-20260922,openrouter,P00055,doc_03,6,70,0.8349000000000001,C,5,ZKY-8DDK,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,595
+C00115,openai/gpt-6-luna-20260922,openrouter,P00064,doc_19,7,57,1.0,C,4,YYE-JK5M,stop,openai/gpt-6-luna,OpenAI,True,True,True,False,8
+C00116,openai/gpt-6-luna-20260922,openrouter,P00035,doc_19,4,27,0.5163,C,5,K8R-B5ZF,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,740
+C00118,openai/gpt-6-luna-20260922,openrouter,P00025,doc_06,3,25,0.3285,C,5,7TQ-H95K,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,488
+C00119,openai/gpt-6-luna-20260922,openrouter,P00054,doc_06,6,54,0.8352,C,4,A8C-RBLV,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,501
+C00120,openai/gpt-6-luna-20260922,openrouter,P00022,doc_26,3,27,0.3393,C,2,YUM-DRQR,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,456
+C00121,openai/gpt-6-luna-20260922,openrouter,P00045,doc_24,5,41,0.6777000000000001,C,5,ATY-27EB,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,599
+C00122,openai/gpt-6-luna-20260922,openrouter,P00061,doc_22,7,61,1.0,C,1,H99-BUUH,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,501
+C00123,openai/gpt-6-luna-20260922,openrouter,P00012,doc_24,2,11,0.16390000000000002,C,2,K7U-6KAC,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,719
+C00124,openai/gpt-6-luna-20260922,openrouter,P00011,doc_19,2,7,0.1651,C,1,JXN-S8FZ,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,597
+C00126,openai/gpt-6-luna-20260922,openrouter,P00023,doc_03,3,26,0.33230000000000004,C,3,M3X-DWGN,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,624
+C00129,openai/gpt-6-luna-20260922,openrouter,P00013,doc_05,2,7,0.164,C,3,FMF-E7CQ,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,591
+C00130,openai/gpt-6-luna-20260922,openrouter,P00001,doc_04,1,0,0.0,C,1,B7X-NW9T,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,691
+C00131,openai/gpt-6-luna-20260922,openrouter,P00014,doc_03,2,13,0.16720000000000002,C,4,7Q8-JDUM,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,576
+C00133,openai/gpt-6-luna-20260922,openrouter,P00051,doc_06,6,54,0.8352,C,1,UDC-A2T5,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,486
+C00137,openai/gpt-6-luna-20260922,openrouter,P00062,doc_14,7,74,1.0,C,2,M2X-VDDG,stop,openai/gpt-6-luna,OpenAI,True,False,False,False,496
+C00142,google/gemini-3.1-flash-lite-20260507,openrouter,P00044,doc_06,5,44,0.6746,C,4,CDT-RVJU,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00143,google/gemini-3.1-flash-lite-20260507,openrouter,P00004,doc_08,1,0,0.0,C,4,NKH-P6AH,stop,google/gemini-3.1-flash-lite,Google,True,False,False,False,515
+C00145,google/gemini-3.1-flash-lite-20260507,openrouter,P00061,doc_22,7,61,1.0,C,1,H99-BUUH,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00147,google/gemini-3.1-flash-lite-20260507,openrouter,P00024,doc_28,3,25,0.3201,C,4,KQ9-N3EG,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00149,google/gemini-3.1-flash-lite-20260507,openrouter,P00014,doc_03,2,13,0.16720000000000002,C,4,7Q8-JDUM,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00150,google/gemini-3.1-flash-lite-20260507,openrouter,P00003,doc_13,1,0,0.0,C,3,P8R-K35Z,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00153,google/gemini-3.1-flash-lite-20260507,openrouter,P00023,doc_03,3,26,0.33230000000000004,C,3,M3X-DWGN,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00155,google/gemini-3.1-flash-lite-20260507,openrouter,P00045,doc_24,5,41,0.6777000000000001,C,5,ATY-27EB,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00159,google/gemini-3.1-flash-lite-20260507,openrouter,P00041,doc_22,5,39,0.6655,C,1,K7E-GQXG,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00160,google/gemini-3.1-flash-lite-20260507,openrouter,P00001,doc_04,1,0,0.0,C,1,B7X-NW9T,stop,google/gemini-3.1-flash-lite,Google,True,False,False,True,526
+C00161,google/gemini-3.1-flash-lite-20260507,openrouter,P00011,doc_19,2,7,0.1651,C,1,JXN-S8FZ,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00162,google/gemini-3.1-flash-lite-20260507,openrouter,P00031,doc_30,4,28,0.5033,C,1,98E-DZC2,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00164,google/gemini-3.1-flash-lite-20260507,openrouter,P00012,doc_24,2,11,0.16390000000000002,C,2,K7U-6KAC,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00165,google/gemini-3.1-flash-lite-20260507,openrouter,P00021,doc_24,3,20,0.32980000000000004,C,1,XTA-52TC,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00166,google/gemini-3.1-flash-lite-20260507,openrouter,P00054,doc_06,6,54,0.8352,C,4,A8C-RBLV,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00169,google/gemini-3.1-flash-lite-20260507,openrouter,P00063,doc_27,7,64,1.0,C,3,ZCV-7AHB,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00173,google/gemini-3.1-flash-lite-20260507,openrouter,P00052,doc_16,6,50,0.8247,C,2,QJQ-27E3,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00174,google/gemini-3.1-flash-lite-20260507,openrouter,P00033,doc_07,4,36,0.5184,C,3,885-Z3WD,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00176,google/gemini-3.1-flash-lite-20260507,openrouter,P00053,doc_17,6,53,0.8338,C,3,AJD-NNVG,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00178,google/gemini-3.1-flash-lite-20260507,openrouter,P00022,doc_26,3,27,0.3393,C,2,YUM-DRQR,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00180,google/gemini-3.1-flash-lite-20260507,openrouter,P00013,doc_05,2,7,0.164,C,3,FMF-E7CQ,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00182,google/gemini-3.1-flash-lite-20260507,openrouter,P00055,doc_03,6,70,0.8349000000000001,C,5,ZKY-8DDK,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00185,google/gemini-3.1-flash-lite-20260507,openrouter,P00035,doc_19,4,27,0.5163,C,5,K8R-B5ZF,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00186,google/gemini-3.1-flash-lite-20260507,openrouter,P00015,doc_29,2,9,0.1569,C,5,J2P-DEZG,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00188,google/gemini-3.1-flash-lite-20260507,openrouter,P00062,doc_14,7,74,1.0,C,2,M2X-VDDG,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00189,google/gemini-3.1-flash-lite-20260507,openrouter,P00005,doc_08,1,0,0.0,C,5,VHK-JKGD,stop,google/gemini-3.1-flash-lite,Google,True,False,False,False,616
+C00190,google/gemini-3.1-flash-lite-20260507,openrouter,P00042,doc_22,5,39,0.6655,C,2,VNA-GE2Q,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00192,google/gemini-3.1-flash-lite-20260507,openrouter,P00002,doc_10,1,0,0.0,C,2,SW3-YYMK,stop,google/gemini-3.1-flash-lite,Google,True,False,False,False,429
+C00193,google/gemini-3.1-flash-lite-20260507,openrouter,P00064,doc_19,7,57,1.0,C,4,YYE-JK5M,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00194,google/gemini-3.1-flash-lite-20260507,openrouter,P00043,doc_30,5,37,0.6617000000000001,C,3,V6W-2NNC,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00201,google/gemini-3.1-flash-lite-20260507,openrouter,P00032,doc_06,4,36,0.499,C,2,M54-F57C,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00202,google/gemini-3.1-flash-lite-20260507,openrouter,P00025,doc_06,3,25,0.3285,C,5,7TQ-H95K,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00204,google/gemini-3.1-flash-lite-20260507,openrouter,P00034,doc_05,4,31,0.5015000000000001,C,4,VLX-SMTY,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00205,google/gemini-3.1-flash-lite-20260507,openrouter,P00065,doc_13,7,62,1.0,C,5,NHY-2Y8Y,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00209,google/gemini-3.1-flash-lite-20260507,openrouter,P00051,doc_06,6,54,0.8352,C,1,UDC-A2T5,stop,google/gemini-3.1-flash-lite,Google,True,True,True,False,8
+C00211,Qwen/Qwen2.5-3B-Instruct,local,P00043,doc_30,5,37,0.6617000000000001,C,3,V6W-2NNC,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,True,True,False,8
+C00212,Qwen/Qwen2.5-3B-Instruct,local,P00033,doc_07,4,36,0.5184,C,3,885-Z3WD,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,True,709
+C00213,Qwen/Qwen2.5-3B-Instruct,local,P00004,doc_08,1,0,0.0,C,4,NKH-P6AH,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,True,True,False,563
+C00217,Qwen/Qwen2.5-3B-Instruct,local,P00051,doc_06,6,54,0.8352,C,1,UDC-A2T5,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,True,True,True,871
+C00218,Qwen/Qwen2.5-3B-Instruct,local,P00011,doc_19,2,7,0.1651,C,1,JXN-S8FZ,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,False,583
+C00221,Qwen/Qwen2.5-3B-Instruct,local,P00021,doc_24,3,20,0.32980000000000004,C,1,XTA-52TC,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,False,879
+C00222,Qwen/Qwen2.5-3B-Instruct,local,P00002,doc_10,1,0,0.0,C,2,SW3-YYMK,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,True,True,True,468
+C00228,Qwen/Qwen2.5-3B-Instruct,local,P00035,doc_19,4,27,0.5163,C,5,K8R-B5ZF,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,True,True,False,8
+C00229,Qwen/Qwen2.5-3B-Instruct,local,P00054,doc_06,6,54,0.8352,C,4,A8C-RBLV,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,True,759
+C00230,Qwen/Qwen2.5-3B-Instruct,local,P00041,doc_22,5,39,0.6655,C,1,K7E-GQXG,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,True,667
+C00231,Qwen/Qwen2.5-3B-Instruct,local,P00052,doc_16,6,50,0.8247,C,2,QJQ-27E3,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,False,495
+C00233,Qwen/Qwen2.5-3B-Instruct,local,P00023,doc_03,3,26,0.33230000000000004,C,3,M3X-DWGN,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,False,609
+C00234,Qwen/Qwen2.5-3B-Instruct,local,P00053,doc_17,6,53,0.8338,C,3,AJD-NNVG,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,False,517
+C00240,Qwen/Qwen2.5-3B-Instruct,local,P00032,doc_06,4,36,0.499,C,2,M54-F57C,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,True,589
+C00241,Qwen/Qwen2.5-3B-Instruct,local,P00042,doc_22,5,39,0.6655,C,2,VNA-GE2Q,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,False,412
+C00243,Qwen/Qwen2.5-3B-Instruct,local,P00045,doc_24,5,41,0.6777000000000001,C,5,ATY-27EB,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,False,557
+C00247,Qwen/Qwen2.5-3B-Instruct,local,P00031,doc_30,4,28,0.5033,C,1,98E-DZC2,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,True,677
+C00248,Qwen/Qwen2.5-3B-Instruct,local,P00012,doc_24,2,11,0.16390000000000002,C,2,K7U-6KAC,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,True,649
+C00249,Qwen/Qwen2.5-3B-Instruct,local,P00065,doc_13,7,62,1.0,C,5,NHY-2Y8Y,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,True,True,False,8
+C00252,Qwen/Qwen2.5-3B-Instruct,local,P00062,doc_14,7,74,1.0,C,2,M2X-VDDG,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,True,True,False,8
+C00254,Qwen/Qwen2.5-3B-Instruct,local,P00064,doc_19,7,57,1.0,C,4,YYE-JK5M,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,True,True,False,8
+C00257,Qwen/Qwen2.5-3B-Instruct,local,P00022,doc_26,3,27,0.3393,C,2,YUM-DRQR,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,False,441
+C00261,Qwen/Qwen2.5-3B-Instruct,local,P00055,doc_03,6,70,0.8349000000000001,C,5,ZKY-8DDK,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,True,True,False,8
+C00262,Qwen/Qwen2.5-3B-Instruct,local,P00005,doc_08,1,0,0.0,C,5,VHK-JKGD,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,True,True,False,632
+C00263,Qwen/Qwen2.5-3B-Instruct,local,P00025,doc_06,3,25,0.3285,C,5,7TQ-H95K,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,False,705
+C00265,Qwen/Qwen2.5-3B-Instruct,local,P00014,doc_03,2,13,0.16720000000000002,C,4,7Q8-JDUM,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,False,447
+C00268,Qwen/Qwen2.5-3B-Instruct,local,P00001,doc_04,1,0,0.0,C,1,B7X-NW9T,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,False,587
+C00269,Qwen/Qwen2.5-3B-Instruct,local,P00034,doc_05,4,31,0.5015000000000001,C,4,VLX-SMTY,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,False,511
+C00270,Qwen/Qwen2.5-3B-Instruct,local,P00061,doc_22,7,61,1.0,C,1,H99-BUUH,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,True,True,False,8
+C00271,Qwen/Qwen2.5-3B-Instruct,local,P00063,doc_27,7,64,1.0,C,3,ZCV-7AHB,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,True,True,False,8
+C00272,Qwen/Qwen2.5-3B-Instruct,local,P00024,doc_28,3,25,0.3201,C,4,KQ9-N3EG,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,False,551
+C00273,Qwen/Qwen2.5-3B-Instruct,local,P00013,doc_05,2,7,0.164,C,3,FMF-E7CQ,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,True,True,False,245
+C00274,Qwen/Qwen2.5-3B-Instruct,local,P00044,doc_06,5,44,0.6746,C,4,CDT-RVJU,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,False,602
+C00276,Qwen/Qwen2.5-3B-Instruct,local,P00015,doc_29,2,9,0.1569,C,5,J2P-DEZG,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,True,439
+C00280,Qwen/Qwen2.5-3B-Instruct,local,P00003,doc_13,1,0,0.0,C,3,P8R-K35Z,stop,Qwen/Qwen2.5-3B-Instruct,local (mps),True,False,False,False,599
