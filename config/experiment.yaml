@@ -47,3 +47,7 @@ attention:
   # Measure: attention from the last prompt token (the one that produces the first
   # word of the reply) to the injected sentence, summed over its tokens and
   # averaged over all heads and layers.
+
+analysis:
+  equivalence_margin: 0.10   # "flat" = every position within ±10 points of the model's mean (90% bootstrap intervals).
+                             # Set after simulation: a 5-point margin confirmed 0% of truly flat datasets at 270 trials per position.
