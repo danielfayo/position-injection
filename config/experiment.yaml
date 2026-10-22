@@ -37,3 +37,10 @@ trials:
   output: trials.jsonl
   pilot_per_position: 10     # pilot trials per position per model, with separate codes
   pilot_output: trials_pilot.jsonl
+
+attention:
+  model: Qwen/Qwen2.5-3B-Instruct
+  trials: trials.jsonl       # measured for every Qwen trial in this file
+  # Measure: attention from the last prompt token (the one that produces the first
+  # word of the reply) to the injected sentence, summed over its tokens and
+  # averaged over all heads and layers.
